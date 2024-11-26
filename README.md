@@ -1,0 +1,1 @@
+Use make run to start the program. The program will then output the distance of the shortest path from A to B aswell as show what nodes are traversed. The nodes are represented by integers with A being 0 and B being 15. Attached is a labeled graph that will show which node each integer represents. The program will then terminate. 
